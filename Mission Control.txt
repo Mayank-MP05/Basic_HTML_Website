@@ -1,0 +1,9 @@
+Aim : Create A Basic Website
+
+Pages : 3 or 4 ;
+Images :
+
+Directory :-
+
+img
+pages
