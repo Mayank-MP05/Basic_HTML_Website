@@ -1,9 +1,29 @@
 div{
 	background-color :lightblue;
 }
+
+/*  Teans of PCCOE Page Styling  */
+
+/* Adding Custom Fonts */
+
+@font-face {
+    font-family: techFont;
+    src: url(Demonized.ttf);
+}
+
 .titles{
 	background-color : #000000;
 	color : #ffffff ;
 	font-size : 30px ;
 	
 }
+
+.Team_box{
+    background-color: lightgrey;
+	text-align : center;;
+    width: 80%;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
