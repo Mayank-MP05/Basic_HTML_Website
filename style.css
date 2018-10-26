@@ -1,7 +1,27 @@
 div{
 	background-color :lightblue;
+	
 }
 
+/* Divisions Styles */
+#title_area{
+	display: flex;
+}
+#left{
+	background-color :#000000;
+	color : #ffffff;
+	text-align : left;
+	width : 40% ;
+	height : 100px ;
+}
+
+#right{
+	background-color :#000000;
+	color : #ffffff;
+	text-align : right;
+	width : 40% ;
+	height : 100px ;
+}
 /*  Teans of PCCOE Page Styling  */
 
 /* Adding Custom Fonts */
